@@ -1,0 +1,1 @@
+cmake -DCMAKE_C_COMPILER="D:/Pliki programów (x86)/Microsoft Visual Studio 12.0/VC/bin/cl.exe" -DCMAKE_CXX_COMPILER="D:/Pliki programów (x86)/Microsoft Visual Studio 12.0/VC/bin/cl.exe"
