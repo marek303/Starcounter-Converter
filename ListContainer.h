@@ -43,7 +43,6 @@ public:
 			{
 				s.insert(0, pIdent->name);
 			}
-
 			if (pCurrElem->*m_next_ptr)
 			{
 				s.insert(0, L".");
