@@ -44,7 +44,7 @@ public:
 				s.insert(0, pIdent->name);
 			}
 
-			if (pCurrElem = pCurrElem->*m_next_ptr)
+			if (pCurrElem->*m_next_ptr)
 			{
 				s.insert(0, L".");
 			}
